@@ -33,3 +33,5 @@ model2.fit(X_train, y_train)
 y_pred2 = model2.predict(X_test)
 print("\n K NeighbourClassifier Predictions:", y_pred2[:5])
 print("k-NN accuracy:", accuracy_score(y_test, y_pred2))
+
+# The end of the python code file
