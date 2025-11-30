@@ -1,3 +1,6 @@
+#Jeyaprakash Jebapandian
+#jeyajeba37@gmail.com
+
 This repo was created as part of my course AI engineer course with IT Career Switch
 Lesson "Building Your First AI Model"
 https://itcs.discovermycareer.co.uk/courses/ai-fundamentals/lesson/building-your-first-ai-model/
